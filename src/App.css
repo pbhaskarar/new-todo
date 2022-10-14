@@ -28,6 +28,26 @@
   color: #61dafb;
 }
 
+.css-6hp17o-MuiList-root-MuiMenu-list{
+  background-color: blueviolet;
+}
+.css-hip9hq-MuiPaper-root-MuiAppBar-root{
+  background-color: blueviolet;
+}
+.card-body{
+  width: 80%;
+  margin: auto;
+  background-color: crimson;
+}
+
+/* home page */
+
+.bg-img{
+  background-image: url('../src/reactbg.jpg');
+  width: 100%;
+  height: 100vh;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

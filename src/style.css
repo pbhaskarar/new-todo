@@ -1,0 +1,52 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    background: linear-gradient(to top left, #3399ff 0%, #ff3399 100%);
+    height: 50vh;
+  }
+  .users{
+    font-size: 2.5rem;
+    padding-top: 1rem;
+    color: white;
+  }
+  .user-add{
+    font-size: 2rem;
+    color: white;
+  }
+  .user {
+    display: flex;
+    width: 600px;
+    justify-content: space-between;
+    margin: 10px;
+  }
+  .Back-color{
+    background: linear-gradient(to top left, #3399ff 0%, #ff3399 100%);
+    height: 100vh;
+  }
+
+.btns{
+    background-color: #0ce5f5; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.btns:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+input[type=text] {
+    border: none;
+    border-bottom: 2px solid red;
+  }
+.inputfield{
+  border-radius: 4px;
+  height: 45px;
+  width: 300px;
+}
