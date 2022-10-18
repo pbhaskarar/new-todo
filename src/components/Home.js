@@ -1,6 +1,4 @@
 import React, { useEffect, useState } from "react";
-// import { User } from "./components/User";
-// import { AddUser } from "./components/AddUser";
 import { User } from "./User";
 import { AddUser } from "./AddUser";
 import "../style.css"

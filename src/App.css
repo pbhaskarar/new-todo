@@ -56,3 +56,37 @@
     transform: rotate(360deg);
   }
 }
+
+.newImg{
+  height: 39vh;
+  width: 40vw;
+  margin-top: 6.4rem;
+}
+.newvideo{
+  height: 50vh;
+  width: 40vw;
+  margin: 1rem; 
+}
+.col-spaces{
+  padding: 0.5rem;
+}
+.newAudio{
+  height: 39vh;
+  width: 40vw;
+  margin-top: 6.4rem;
+  /* background-color: rgb(25, 194, 197); */
+  background-image: url("../src/reactbg.jpg");
+}
+
+@media(max-width:425px){
+  .newImg{
+    width: 83vw;
+  }
+  .newvideo{
+    width: 80vw;
+  }
+  .newAudio{
+    width: 83vw;
+    background-color: rgb(25, 194, 197);
+  }
+}

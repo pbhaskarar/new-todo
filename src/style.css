@@ -28,7 +28,7 @@
     background-color: #0ce5f5; /* Green */
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 10px 22px;
     margin: 5px;
     text-align: center;
     text-decoration: none;
@@ -49,4 +49,7 @@ input[type=text] {
   border-radius: 4px;
   height: 45px;
   width: 300px;
+}
+.user-name, .user-email{
+    margin-top: 1.3rem;
 }
